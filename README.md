@@ -1,9 +1,5 @@
 ## 📜 Certifications
 
-<a href="https://www.credly.com/badges/6b5bfd32-bda8-41aa-bb7e-be93b04db9ff/public_url" target="_blank">
-  <img src="https://images.credly.com/size/220x220/images/6edcc0ee-8be5-4bc1-828e-5b12da61bbbd/image.png" width="140" alt="ITS Python Certification" />
-</a>
-
 [![ITS Python](https://img.shields.io/badge/ITS_Python-908%2F1000-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.credly.com/badges/6b5bfd32-bda8-41aa-bb7e-be93b04db9ff/public_url)
 
 *Click the badge above to verify certification on Credly.*
