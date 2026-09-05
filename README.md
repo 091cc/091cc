@@ -1,12 +1,6 @@
 ## 📜 Certifications
 
-<a href="https://www.credly.com/badges/6b5bfd32-bda8-41aa-bb7e-be93b04db9ff/public_url" target="_blank">
-  <img src="https://images.credly.com/size/680x680/images/3c4602d8-832e-4a24-b42d-00359ce746f7/ITS-Badges_Python_1200px.png" width="140" alt="ITS Python Certification" />
-</a>
-
-[![ITS Python](https://img.shields.io/badge/ITS_Python-908%2F1000-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.credly.com/badges/6b5bfd32-bda8-41aa-bb7e-be93b04db9ff/public_url)
-
-*Click the badge above to verify certification on Credly.*
+<div align="center"> <a href="https://www.credly.com/badges/6b5bfd32-bda8-41aa-bb7e-be93b04db9ff/public_url" target="_blank"> <img src="https://images.credly.com/size/680x680/images/3c4602d8-832e-4a24-b42d-00359ce746f7/ITS-Badges_Python_1200px.png" width="140" alt="ITS Python Certification" /> </a> <br> <a href="https://www.credly.com/badges/6b5bfd32-bda8-41aa-bb7e-be93b04db9ff/public_url"> <img src="https://img.shields.io/badge/ITS_Python-908%2F1000-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="ITS Python 908/1000" /> </a> </div>
 <!--
 **091cc/091cc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
