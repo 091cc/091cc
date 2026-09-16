@@ -18,6 +18,9 @@
   <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/551bf106644b6a07e95cd6504c31cd365ea2d4f4">
     <img src="https://www.datacamp.com/statement-of-accomplishment/badge/course/551bf106644b6a07e95cd6504c31cd365ea2d4f4.png" alt="DataCamp Statement of Accomplishment" width="140" />
   </a>
+  <div style="line-height: 1.5;">
+    <strong>Introduction to Git</strong>
+  </div>
 </div>
 
 <!--
