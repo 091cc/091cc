@@ -13,6 +13,11 @@
     <span style="font-size: 0.9em; color: #555;">Certificate Expiration Date: 2031/09/05</span>
   </div>
 </div>
+<div align="center">
+  <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/551bf106644b6a07e95cd6504c31cd365ea2d4f4?utm_source=customerio&utm_medium=email&utm_campaign=Complete%20Course%20in%20Track&dc_euid=22379971">
+    <img src="https://www.datacamp.com/statement-of-accomplishment/badge/course/551bf106644b6a07e95cd6504c31cd365ea2d4f4.png
+  </a>
+</div>
 <!--
 **091cc/091cc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
