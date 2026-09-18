@@ -16,13 +16,21 @@
 <br>
 <div align="center">
   <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/551bf106644b6a07e95cd6504c31cd365ea2d4f4">
-    <img src="https://www.datacamp.com/statement-of-accomplishment/badge/course/551bf106644b6a07e95cd6504c31cd365ea2d4f4.png" alt="DataCamp Statement of Accomplishment" height="140" />
+    <img src="https://www.datacamp.com/statement-of-accomplishment/badge/course/551bf106644b6a07e95cd6504c31cd365ea2d4f4.png" alt="DataCamp Introduction to Git" height="140" />
   </a>
   <div style="line-height: 1.5;">
     <strong>Introduction to Git</strong>
   </div>
 </div>
-
+<br>
+<div align="center">
+  <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/d27a5959408270dec4df40ad043984f7205c58c3">
+    <img src="https://www.datacamp.com/statement-of-accomplishment/badge/course/d27a5959408270dec4df40ad043984f7205c58c3.png" alt="DataCamp Intermediate Git" height="140" />
+  </a>
+  <div style="line-height: 1.5;">
+    <strong>Intermediate Git</strong>
+  </div>
+</div>
 <!--
 **091cc/091cc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
