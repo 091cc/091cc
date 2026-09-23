@@ -31,6 +31,14 @@
     <strong>Intermediate Git</strong>
   </div>
 </div>
+<div align="center">
+  <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/74500c4042ae42a8534f43ed4c8bc9da58c0b88c">
+    <img src="https://www.datacamp.com/statement-of-accomplishment/badge/course/74500c4042ae42a8534f43ed4c8bc9da58c0b88c.png" alt="DataCamp Introduction to GitHub Concepts" height="140" />
+  </a>
+  <div style="line-height: 1.5;">
+    <strong>Introduction to GitHub Concepts</strong>
+  </div>
+</div>
 <!--
 **091cc/091cc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
